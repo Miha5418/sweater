@@ -1,6 +1,6 @@
 package org.example.sweter.repos;
 
-import org.example.sweter.doamin.Message;
+import org.example.sweter.domain.Message;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;
